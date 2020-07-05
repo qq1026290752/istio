@@ -1,0 +1,1 @@
+FROM quay.io/kiali:v1.18
